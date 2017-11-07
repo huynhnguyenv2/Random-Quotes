@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Satisfy');
+body{
+  background: url("https://photo.tinhte.vn/store/2015/07/3096715_afternoon_at_the_chateau-wallpaper-1920x1080.jpg");
+  background-repeat: no-repeat;
+   height: 700px;
+  text-align: center;
+}
+.header{
+  background: #000;
+
+  font-family: 'Permanent Marker';
+  font-size: 26px;
+  opacity: 0.8;
+  color: #fff;
+  width: 1000px;
+  
+  margin: 20% auto auto 160px; 
+}
+.quotes{
+  background: #000;
+  margin-top: 80px;
+  color: #fff;
+  opacity: 0.8;
+}
+.quote{
+  
+  font-family: 'Satisfy';
+  font-size: 30px;
+}
+.author {
+  margin-left: 60%;
+  
+}
+.next{
+  margin-left: 60%;
+  border-right: #b30059 solid 2px;
+  
+}
+.next, .post:hover{
+  cursor: pointer;
+}
+.post{
+  padding-left: 10px;
+}
